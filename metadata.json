@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Obsidian Note Generator",
+  "description": "Generate comprehensive, Obsidian-compatible Markdown notes from YouTube video links using the Gemini API. The app creates structured notes including titles, tags, summaries, and more, ready to be opened directly in your Obsidian vault.",
+  "requestFramePermissions": []
+}
